@@ -23,7 +23,7 @@ The table below provides 4 different sports, the reasons behind playing and the 
 **"The more I learn, the more I realize how much I don't know."** - ***Isaac Newton***
 
 # Code Fencing 
-**Get the current URL with JavaScript?**
+**Get the current URL with JavaScript?** </br>
 go to StackOverflow : <https://stackoverflow.com/questions/1034621/get-the-current-url-with-javascript>
 
 ```
