@@ -22,5 +22,20 @@ The table below provides 4 different sports, the reasons behind playing and the 
 **"The important thing is not to stop questioning."** - ***Albert Einstein*** <br/>
 **"The more I learn, the more I realize how much I don't know."** - ***Isaac Newton***
 
+# Code Fencing 
+**Get the current URL with JavaScript?**
+go to StackOverflow : <https://stackoverflow.com/questions/1034621/get-the-current-url-with-javascript>
+
+```
+var newPathname = "";
+for (i = 0; i < pathArray.length; i++) {
+  newPathname += "/";
+  newPathname += pathArray[i];
+}
+```
+
+go to snippet source : <https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/>
+
+
 
 
