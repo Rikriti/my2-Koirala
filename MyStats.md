@@ -7,5 +7,12 @@ I am currently a student pursuing a master's degree at Northwest Missouri State 
 
 [MyStats](https://github.com/Rikriti/my2-Koirala/blob/main/MyStats.md)
 
+| Sports | Reason for Playing this Sport    | Hours spent    |
+| :----: | :------------------------------: | :-------------: |
+| Badminton | Fun and good for arm exercise  | 1 hr  |
+| Basketball | Fun and good for exercise  | 1 hr |
+| Swimming | Fun and good for overall body  | 30 mins  |
+| Cycling | Fun and good for legs exercise  | 30 mins  |
+
 
 
