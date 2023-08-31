@@ -7,6 +7,10 @@ I am currently a student pursuing a master's degree at Northwest Missouri State 
 
 [MyStats](https://github.com/Rikriti/my2-Koirala/blob/main/MyStats.md)
 
+# Sports Description Table
+
+The table below provides 4 different sports, the reasons behind playing and the hours spent playing it.
+
 | Sports | Reason for Playing this Sport    | Hours spent    |
 | :----: | :------------------------------: | :-------------: |
 | Badminton | Fun and good for arm exercise  | 1 hr  |
