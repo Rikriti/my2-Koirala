@@ -19,7 +19,7 @@ The table below provides 4 different sports, the reasons behind playing and the 
 | Cycling | Fun and good for legs exercise  | 30 mins  |
 
 # Quotes by Famous Scientists
-**"The important thing is not to stop questioning."** - ***Albert Einstein***
+**"The important thing is not to stop questioning."** - ***Albert Einstein*** <br/>
 **"The more I learn, the more I realize how much I don't know."** - ***Isaac Newton***
 
 
